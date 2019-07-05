@@ -1,0 +1,36 @@
+{
+  "name": "express-jwt-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "JWT",
+    "Sequelize",
+    "MySql",
+    "Authentication"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.4",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "sequelize": "^4.42.0",
+    "sequelize-auto": "^0.4.29"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
