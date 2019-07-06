@@ -3,7 +3,7 @@ running the application:
 1. npm install
 2. npm run server
 
-database credetials on line 11
+database credentials on line 11
 
 working end points:
 POST/personnel/create 
