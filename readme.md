@@ -24,3 +24,5 @@ POST/personnel/login
 
 GET/tasks -returns all tasks in database
 GET/personnel -returns all personnel in database
+
+database not public
